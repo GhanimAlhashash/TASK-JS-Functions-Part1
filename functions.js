@@ -1,7 +1,7 @@
 /**
  * Task 1:
  * Create a function named `printName`
- * - take a name as a parameter
+ * - take a name as a parameter hi
  * - that just prints that name on the screen
  */
 
